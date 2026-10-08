@@ -1,6 +1,6 @@
 # AI-Assisted Development Workshop Wiki
 
-This page is a starter for the repository’s GitHub Wiki. Copy it to the Wiki repository as `Home.md` if you enable GitHub Wiki for this project.
+This page is automatically published to the repository’s GitHub Wiki when files in `wiki/` are pushed to `main`.
 
 ## Purpose
 
@@ -32,7 +32,7 @@ The decision to commit or merge remains a human decision.
 
 ## Related pages
 
-- [Developer Checklist](CHECKLIST.md)
-- [Resources](RESOURCES.md)
-- [Presentation README](README.md)
+- [Developer Checklist](https://github.com/Terix21/Ai-assisted_dev_infosite/blob/main/CHECKLIST.md)
+- [Resources](https://github.com/Terix21/Ai-assisted_dev_infosite/blob/main/RESOURCES.md)
+- [Presentation README](https://github.com/Terix21/Ai-assisted_dev_infosite/blob/main/README.md)
 

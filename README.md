@@ -17,7 +17,7 @@ The file opens in the presenter console. Select **Launch presentation view** to 
 | [`ai-assisted-development.html`](ai-assisted-development.html) | The complete offline presentation, presenter console, notes, timers, and embedded QR codes. |
 | [`CHECKLIST.md`](CHECKLIST.md) | The review checklist previously included in the presentation. |
 | [`RESOURCES.md`](RESOURCES.md) | Public research, official guidance, and documentation used in the workshop. |
-| [`WIKI.md`](WIKI.md) | A starter page for a GitHub Wiki or facilitator reference. |
+| [`wiki/Home.md`](wiki/Home.md) | The GitHub Wiki homepage and facilitator reference, automatically synced on pushes to `main`. |
 
 ## Presentation controls
 

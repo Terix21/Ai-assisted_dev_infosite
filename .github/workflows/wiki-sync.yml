@@ -1,0 +1,23 @@
+name: Sync Wiki
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'wiki/**'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Action
+        uses: actions/checkout@v4
+
+      - name: Sync to GitHub Wiki
+        uses: Andrew-Chen-Wang/github-wiki-action@v4
+        with:
+          path: ./wiki
