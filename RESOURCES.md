@@ -24,3 +24,17 @@ These public resources support the examples and guidance in the presentation. Re
 ## Project links
 
 - [Presentation materials repository](https://github.com/Terix21/Ai-assisted_dev_infosite)
+## Apprenticeship/ Early Career programs
+
+- [ApprenticeshipPHL: Technology programs](https://apprenticeshipphl.org/find-a-program/2/?_industry=technology)
+- [Launch Philly: Information Technology sector apprenticeships](https://launchphilly.org/programs/new-information-technology-it-sector-apprenticeships/)
+## Program announcements
+
+- [Bank of America: Additional apprentices and apprenticeship investment announcement](https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/09/bofa-to-hire-1-000-additional-apprentices-and-invest--150-millio.html)
+
+## Apprenticeship and early-career programs
+
+- [JPMorganChase: Cyber, Tech & Controls](https://www.jpmorganchase.com/careers/explore-opportunities/programs/cyber-tech-controls)
+- [JPMorganChase: FAST](https://www.jpmorganchase.com/careers/explore-opportunities/programs/FAST)
+- [JPMorganChase: Software Engineer Full-Time](https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-fulltime)
+- [Forage jobs](https://www.theforage.com/jobs)
